@@ -8,7 +8,7 @@ weight = 1
 ### Create a new terrain ###
 Terrain creation, removal, and node modifications can be done in <strong>Terrain Inspector > Properties</strong> tab. <br>
 Terrain node count in both dimensions, their resolution and size can be specified in <strong>New Terrain Properties</strong> panel.<br>
-This parameters must be specified proir to the creation, although they can be canged per-node basis later.
+This parameters must be specified proir to the creation, although they can be changed per-node basis later.
 
  | 
 ---- | ----
